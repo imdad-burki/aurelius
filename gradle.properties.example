@@ -1,0 +1,16 @@
+# Copy this file to gradle.properties and fill in your own values.
+# NEVER commit the real gradle.properties — it holds secrets.
+#
+# YouTube Data API v3 key (Google Cloud Console, restricted to the
+# YouTube Data API v3). The app reads it at build time (BuildConfig);
+# it never appears in any UI.
+YOUTUBE_API_KEY=
+
+# Release signing (only needed for a signed release build).
+# Generate your own keystore: keytool -genkeypair -alias aurelius
+#   -keyalg RSA -keysize 2048 -validity 10000
+#   -keystore aurelius-release.keystore -storetype PKCS12
+# Note: PKCS12 keystores ignore a separate key password — use the same
+# value for both.
+AURELIUS_STORE_PASSWORD=
+AURELIUS_KEY_PASSWORD=

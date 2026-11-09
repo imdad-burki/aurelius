@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">Musik. Meisterschaft.</string>
+    <string name="home">Start</string>
+    <string name="search">Suche</string>
+    <string name="library">Bibliothek</string>
+    <string name="settings">Einstellungen</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Alben</string>
+    <string name="artists">Künstler</string>
+    <string name="playlists">Playlists</string>
+    <string name="language">Sprache</string>
+    <string name="lyrics">Songtext</string>
+    <string name="queue">Warteschlange</string>
+    <string name="sleep_timer">Schlaf-Timer</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="retry">Erneut versuchen</string>
+    <string name="scan_device">Gerät scannen</string>
+    <string name="search_youtube">Auf YouTube suchen</string>
+    <string name="library_empty">Deine Bibliothek ist leer.</string>
+    <string name="nothing_playing">Es läuft noch nichts.</string>
+    <string name="good_morning">Guten Morgen</string>
+    <string name="good_afternoon">Guten Tag</string>
+    <string name="good_evening">Guten Abend</string>
+    <string name="ready_soundtrack">Bereit für deinen Soundtrack?</string>
+</resources>

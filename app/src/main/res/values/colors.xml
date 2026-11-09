@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AURELIUS AURUM DARK — locked design tokens (see design/00-design-system-board.jpg) -->
+    <color name="aurelius_gold_primary">#D4AF37</color>
+    <color name="aurelius_gold_light">#EBC468</color>
+    <color name="aurelius_gold_dark">#A88A2E</color>
+    <color name="aurelius_background">#0A0A0A</color>
+    <color name="aurelius_surface">#1A1A1A</color>
+    <color name="aurelius_elevated">#242424</color>
+    <color name="aurelius_border">#2E2E2E</color>
+    <color name="aurelius_text_primary">#F5F5F5</color>
+    <color name="aurelius_text_secondary">#B0B0B0</color>
+    <color name="aurelius_text_tertiary">#6E6E6E</color>
+    <color name="aurelius_success">#4CAF50</color>
+    <color name="aurelius_warning">#FF9800</color>
+    <color name="aurelius_error">#E53935</color>
+</resources>

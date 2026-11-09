@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">音乐。精通。</string>
+    <string name="home">首页</string>
+    <string name="search">搜索</string>
+    <string name="library">曲库</string>
+    <string name="settings">设置</string>
+    <string name="songs">歌曲</string>
+    <string name="albums">专辑</string>
+    <string name="artists">艺人</string>
+    <string name="playlists">歌单</string>
+    <string name="language">语言</string>
+    <string name="lyrics">歌词</string>
+    <string name="queue">播放队列</string>
+    <string name="sleep_timer">睡眠定时</string>
+    <string name="equalizer">均衡器</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="scan_device">扫描设备</string>
+    <string name="search_youtube">搜索 YouTube</string>
+    <string name="library_empty">您的曲库是空的。</string>
+    <string name="nothing_playing">暂无播放。</string>
+    <string name="good_morning">早上好</string>
+    <string name="good_afternoon">下午好</string>
+    <string name="good_evening">晚上好</string>
+    <string name="ready_soundtrack">准备好听你的音乐了吗？</string>
+</resources>

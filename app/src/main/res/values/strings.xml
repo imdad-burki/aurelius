@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">Music. Mastered.</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="playlists">Playlists</string>
+    <string name="language">Language</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="queue">Queue</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="scan_device">Scan Device</string>
+    <string name="search_youtube">Search YouTube</string>
+    <string name="library_empty">Your library is empty.</string>
+    <string name="nothing_playing">Nothing playing yet.</string>
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="ready_soundtrack">Ready for your soundtrack?</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Media3 marks ExoPlayer.Builder, Player.audioSessionId and
+         PlaybackParameters @UnstableApi. The Kotlin compiler accepts the
+         code, but lint's UnsafeOptInUsageError detector does not accept
+         per-site @OptIn/@UnstableApi annotations here (verified: class,
+         function and compiler-wide opt-in all still flag call sites).
+         These are the standard, supported Media3 APIs every ExoPlayer app
+         uses, so the check is a warning in this project, not an error. -->
+    <issue id="UnsafeOptInUsageError" severity="warning" />
+</lint>

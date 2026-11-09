@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">Musik. Dikuasai.</string>
+    <string name="home">Beranda</string>
+    <string name="search">Cari</string>
+    <string name="library">Pustaka</string>
+    <string name="settings">Pengaturan</string>
+    <string name="songs">Lagu</string>
+    <string name="albums">Album</string>
+    <string name="artists">Artis</string>
+    <string name="playlists">Daftar Putar</string>
+    <string name="language">Bahasa</string>
+    <string name="lyrics">Lirik</string>
+    <string name="queue">Antrean</string>
+    <string name="sleep_timer">Pengatur Tidur</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="cancel">Batal</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="scan_device">Pindai Perangkat</string>
+    <string name="search_youtube">Cari di YouTube</string>
+    <string name="library_empty">Pustaka Anda kosong.</string>
+    <string name="nothing_playing">Belum ada yang diputar.</string>
+    <string name="good_morning">Selamat pagi</string>
+    <string name="good_afternoon">Selamat siang</string>
+    <string name="good_evening">Selamat malam</string>
+    <string name="ready_soundtrack">Siap untuk soundtrack Anda?</string>
+</resources>

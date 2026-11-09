@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">Музыка. Мастерство.</string>
+    <string name="home">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="library">Библиотека</string>
+    <string name="settings">Настройки</string>
+    <string name="songs">Песни</string>
+    <string name="albums">Альбомы</string>
+    <string name="artists">Исполнители</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="language">Язык</string>
+    <string name="lyrics">Текст песни</string>
+    <string name="queue">Очередь</string>
+    <string name="sleep_timer">Таймер сна</string>
+    <string name="equalizer">Эквалайзер</string>
+    <string name="cancel">Отмена</string>
+    <string name="retry">Повторить</string>
+    <string name="scan_device">Сканировать устройство</string>
+    <string name="search_youtube">Искать на YouTube</string>
+    <string name="library_empty">Ваша библиотека пуста.</string>
+    <string name="nothing_playing">Пока ничего не играет.</string>
+    <string name="good_morning">Доброе утро</string>
+    <string name="good_afternoon">Добрый день</string>
+    <string name="good_evening">Добрый вечер</string>
+    <string name="ready_soundtrack">Готовы к вашему саундтреку?</string>
+</resources>

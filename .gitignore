@@ -1,0 +1,20 @@
+# Secrets — never commit these. Copy gradle.properties.example to
+# gradle.properties and fill in your own values.
+gradle.properties
+*.keystore
+*.jks
+local.properties
+
+# Build outputs
+build/
+app/build/
+.gradle/
+local-maven/
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+
+# Test rig runtime state (regenerated)
+/tmp/

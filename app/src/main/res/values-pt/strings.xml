@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">Música. Dominada.</string>
+    <string name="home">Início</string>
+    <string name="search">Buscar</string>
+    <string name="library">Biblioteca</string>
+    <string name="settings">Configurações</string>
+    <string name="songs">Músicas</string>
+    <string name="albums">Álbuns</string>
+    <string name="artists">Artistas</string>
+    <string name="playlists">Playlists</string>
+    <string name="language">Idioma</string>
+    <string name="lyrics">Letra</string>
+    <string name="queue">Fila</string>
+    <string name="sleep_timer">Temporizador</string>
+    <string name="equalizer">Equalizador</string>
+    <string name="cancel">Cancelar</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="scan_device">Escanear dispositivo</string>
+    <string name="search_youtube">Buscar no YouTube</string>
+    <string name="library_empty">Sua biblioteca está vazia.</string>
+    <string name="nothing_playing">Nada tocando ainda.</string>
+    <string name="good_morning">Bom dia</string>
+    <string name="good_afternoon">Boa tarde</string>
+    <string name="good_evening">Boa noite</string>
+    <string name="ready_soundtrack">Pronto para sua trilha sonora?</string>
+</resources>

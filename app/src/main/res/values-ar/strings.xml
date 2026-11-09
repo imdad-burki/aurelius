@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurelius</string>
+    <string name="app_tagline">الموسيقى. بإتقان.</string>
+    <string name="home">الرئيسية</string>
+    <string name="search">بحث</string>
+    <string name="library">المكتبة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="songs">الأغاني</string>
+    <string name="albums">الألبومات</string>
+    <string name="artists">الفنانون</string>
+    <string name="playlists">قوائم التشغيل</string>
+    <string name="language">اللغة</string>
+    <string name="lyrics">كلمات الأغنية</string>
+    <string name="queue">قائمة الانتظار</string>
+    <string name="sleep_timer">مؤقت النوم</string>
+    <string name="equalizer">المعادل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="scan_device">فحص الجهاز</string>
+    <string name="search_youtube">ابحث في يوتيوب</string>
+    <string name="library_empty">مكتبتك فارغة.</string>
+    <string name="nothing_playing">لا شيء يعمل الآن.</string>
+    <string name="good_morning">صباح الخير</string>
+    <string name="good_afternoon">مساء الخير</string>
+    <string name="good_evening">مساء الخير</string>
+    <string name="ready_soundtrack">جاهز لموسيقاك؟</string>
+</resources>
